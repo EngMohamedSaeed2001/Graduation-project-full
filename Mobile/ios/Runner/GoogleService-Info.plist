@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>788910457317-rmg81muo10irrrd0ggecdiesjlh9cc1v.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.788910457317-rmg81muo10irrrd0ggecdiesjlh9cc1v</string>
+	<key>API_KEY</key>
+	<string>AIzaSyA0XyAJfmI8cjsFdjfyoUYEtUYHA-3atb4</string>
+	<key>GCM_SENDER_ID</key>
+	<string>788910457317</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.semsark</string>
+	<key>PROJECT_ID</key>
+	<string>semsark-529c0</string>
+	<key>STORAGE_BUCKET</key>
+	<string>semsark-529c0.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:788910457317:ios:ab68a17d99446bb510af0c</string>
+	<key>DATABASE_URL</key>
+	<string>https://semsark-529c0-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>
