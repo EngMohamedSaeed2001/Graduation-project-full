@@ -1,4 +1,4 @@
-# Graduation-project-full A+ , 195 /200
+# Semsark Graduation-project-full A+ , 195 /200
 React , Flutter and java spring boot
 
 [Java Spring Boot, Flutter, React js, Face Recognition, Recommendation System] <br />
